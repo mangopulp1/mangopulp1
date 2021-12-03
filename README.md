@@ -2,7 +2,6 @@
 - 🌱 I’m currently learning: Java, Python.
 - 📫 How to reach me: Discord: mango#3966
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: The word “hundred” comes from the old Norse term, “hundrath”, which actually means 120 not 100.
 
 
 <h3 align="left">Languages and Tools:</h3>
